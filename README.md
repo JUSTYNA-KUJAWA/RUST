@@ -4,11 +4,15 @@ The REST API application to calculate dissel usage and probability of unit injec
 
 ## INSTALLATION
 
-git clone
-cd RUST
-cargo build
-cargo build --release
-cargo run
+### git clone
+
+### cd RUST
+
+### cargo build
+
+### cargo build --release
+
+### cargo run
 
 ## Endpoints
 
